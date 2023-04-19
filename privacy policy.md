@@ -4,7 +4,7 @@
 <p> mahmoud taher built the اطباء دكرنس app as a free app. This SERVICE is provided by Individul at no cost and is intended
     for use as is.</p>
 
-<p>I have not programmed this app to collect any personally identifiable information</p>
+<p>my app collect few information as gmail account So the user can send a message to the developer </p>
   
 
 <p>This Services do not address anyone under the age of 13. I do not knowingly collect personal
